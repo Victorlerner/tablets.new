@@ -9,7 +9,7 @@ with the imposition of watermarks
 ### Install
 in Env file change APP_URL to your domain URL.
 
-####After this run this command.
+###After this run this command.
  
 php artisan migrate
 
